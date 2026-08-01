@@ -1,0 +1,29 @@
+IP address:
+
+IP address is nothing but a unique address given to each smart device within the Network.
+Everydevice inside the network like smart device, smart Fan, mobile phones and smart TV etc.
+
+There are 2 types of IP.
+IPV4 32 bit
+IPV6 128 bit
+
+In IPV4, there are multiple classes A, B, C, D , E. and each one has its own range 
+
+There is one method caled CIDR, using which we can calculate the IP range shown as /16 or /24.
+
+
+Subnets:
+
+As name suggest, Subnet is nothing but a small network within a large network.
+
+And the Devops road map is like
+
+Linux,
+Git Github.
+CI/CD consist of Jenkins, Gitlab, & GitHub actions.
+Docker, K8s,
+observalbility consisits Datadog, promethies,grafanaloki etc.
+GitOps using ArgoCD
+Kafka for event streaming etc.
+
+
