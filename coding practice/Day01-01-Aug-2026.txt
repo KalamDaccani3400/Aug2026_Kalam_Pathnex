@@ -1,0 +1,40 @@
+Coding practice done on Day01
+
+#Inintializing git
+ git init
+ git status
+ git branch
+
+#Adding file to staging area
+ git add .
+
+ #commiting the files
+ git commit -m "Day01 First commit" 
+ git status
+ git branch
+
+#adding remote repository
+ git remote add origin https://github.com/KalamDaccani3400/Aug2026_Kalam_Pathnex.git
+ 
+git remote -v
+
+#genrating ssh key for git push
+ssh-keygen -t ed25519 -C "kalam.daccani3400@gmail.com"
+ 
+#copying into github repository 
+ cat /home/kalam/.ssh/id_ed25519.pub
+ 
+#Test the Github connection 
+ ssh -T git@github.com
+
+#push the code
+ git push origin main
+ 
+ cd Aug2026_Kalam_Pathnex/
+ 
+ git push origin main
+ git push origin master
+ git status
+
+#check the log history
+ git log --oneline
