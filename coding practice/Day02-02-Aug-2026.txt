@@ -1,0 +1,31 @@
+Linux commands:
+
+pwd: to check current working directotry
+
+cd: To Change directory
+
+ls: to list 
+
+cp: to copy file from src to dest
+
+mv: to rename or move the file 
+
+top/htop: to see therunning process
+
+grep: to filter some word
+
+|: pipe command is used to provide the output of one file as input to other command
+
+chmod: to change the permission
+
+chown: to change the owner of a file
+
+sudo su: to switch to differrnt user
+
+zip, unzip, tar, untar: comand is used to compress a file/folder
+
+rm: to remove the file 
+
+Head: show first 10 command ofa afile
+
+tail: show last 10 line of a file
